@@ -1,0 +1,16 @@
+## Date: 07 December 2023
+
+### Data Transfer Object (DTO)
+
+Source: [Martin Fowler - Data Transfer Object](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
+
+This document summarizes my understanding of a Data Transfer Object (DTO) in programming.
+
+A Data Transfer Object (DTO) is an object in programming specifically designed to carry data between different parts of a software application. In other words, it is just like a container or carrier that helps move information around efficiently and effectively.
+
+Some key things to remember about DTOs:
+
+- They only carry data, not logic or behavior.
+- They are used to reduce the number of times data needs to be transferred.
+- It improves performance and makes code cleaner.
+- They deliver the data wherever it needs to go.
